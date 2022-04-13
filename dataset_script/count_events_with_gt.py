@@ -2,7 +2,6 @@
 
 import os
 import numpy as np
-from distlib.util import in_venv
 
 
 def main_count_event_gt(in_event_path, in_grt_path, out_event_grt_path):

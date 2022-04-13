@@ -2,8 +2,6 @@ import os
 import pickle
 import numpy as np
 import random
-import cv2
-
 from keras.preprocessing import image
 from dataset_script.events_to_img import padzero
 

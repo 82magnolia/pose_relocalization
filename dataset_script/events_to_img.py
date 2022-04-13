@@ -4,7 +4,6 @@ import os
 import numpy as np
 import scipy.misc as spm
 
-import cv2
 
 # set print all
 #np.set_printoptions(threshold=np.nan)
